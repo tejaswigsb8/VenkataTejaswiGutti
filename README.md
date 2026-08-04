@@ -16,7 +16,7 @@ I am a Senior Platform and DevOps Engineer with 10+ years of experience designin
 
 ## Experience
 
-- 10+ years in Platform Engineering
+- Platform Engineering
 - Enterprise DevOps
 - AWS Cloud
 - Kubernetes
