@@ -2,7 +2,7 @@
 
 ### Senior Platform Engineer | AI Platform Engineer
 
-I am a Senior Platform and DevOps Engineer with 10+ years of experience designing, automating, deploying, and operating cloud-native platforms.
+I am a Senior Platform and DevOps Engineer with experience in designing, automating, deploying, and operating cloud-native platforms.
 
 ## Core Expertise
 
